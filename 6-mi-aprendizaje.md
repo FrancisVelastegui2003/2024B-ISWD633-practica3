@@ -1,3 +1,6 @@
-# COMPLETAR  
-Comparando sus conocimientos antes de hacer la práctica con sus conocimientos después de hacer la tarea, explicar los principales aprendizajes logrados para beneficio de su formación profesional.  
-Si solucionó un problema presentado o utilizó otros comandos que no se mencionan al realizar la práctica también se debe documentar.
+# MI APRENDIZAJE
+
+Antes de realizar esta práctica, mi conocimiento sobre el almacenamiento de datos en Docker era más limitado y me enfocaba principalmente en el uso básico de contenedores. Al terminar esta práctica, comprendí el rol clave que juegan los volúmenes para la persistencia de datos, especialmente en aplicaciones que requieren que la información sobreviva al ciclo de vida de los contenedores. Aprender a usar volúmenes host y volúmenes nombrados me enseñó cómo organizar el almacenamiento en contenedores de una manera que permite un acceso compartido y estructurado entre servicios, lo cual considero que es un conocimiento fundamental para proyectos profesionales en desarrollo de sistemas distribuidos y microservicios.
+
+Uno de los comandos que me pareció más importante fue "docker volume prune" para la utilización de volúmenes nombrados para gestionar volúmenes no utilizados. Además, exploré la configuración de redes entre contenedores y experimenté con la creación de contenedores vinculados a volúmenes tipo host para comprender mejor cómo se comparten los datos entre contenedores en una red, y puedo decir que todo lo aprendido en prácticas anterioresse va conectando con el nuevo material.
+Todo este conocimiento lo aprendí gracias a la guía proporcionada por la docente y la importancia de investigar un poco mas a profundidad sobre los temas tratados me ayudó a culminar correctamente la práctica. 
